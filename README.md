@@ -4,7 +4,7 @@
 [![Compose](https://img.shields.io/badge/Jetpack-Compose-green.svg)](https://developer.android.com/jetpack/compose)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20DDD-orange.svg)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-Aplikasi Pokedex modern yang dibangun untuk memenuhi kriteria seleksi teknikal. Fokus utama proyek ini adalah implementasi **Clean Architecture**, pengelolaan data **Offline-First**, dan antarmuka pengguna yang reaktif menggunakan **Jetpack Compose**.
+Aplikasi Pokedex modern yang dibangun untuk latihan. Fokus utama proyek ini adalah implementasi **Clean Architecture**, pengelolaan data **Offline-First**, dan antarmuka pengguna yang reaktif menggunakan **Jetpack Compose**.
 
 ---
 
